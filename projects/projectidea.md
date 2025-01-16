@@ -27,8 +27,13 @@ summary: "This uses pointer access and Linked list implementation to create a so
   By using command-line arguments, the file also had a DEBUG option that would print extra information to ensure the program ran.
   
   This was done as for a school project for ICS 212 and it was to be done by yourself. 
-  The process involved learning the project outcomes, learning the steps behind pseudocode, implenting pseudocode, and getting a gist for 
+  
+  The whole process involved learning the project outcomes, learning the steps behind pseudocode, implenting pseudocode, and getting a gist for 
   what a testing environment would look like. 
+
+  From this project I was able to learn many technical skills such as the fundamentals of pointers for C, the process behind allocating space for memory and deleting it properly. 
+  As for practical skills, I learned the importance of pseudocode and that good pseudocode captures the concept and essentials of a program so that it can be implemented in any language. Another practical skill were debugging and testing. I learned what it took to set up debugged print statements as 
+  well as a testing plan with expected outcomes versus actual outcomes when running through the test. 
   
 </pre>
 
