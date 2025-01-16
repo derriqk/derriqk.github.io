@@ -39,15 +39,16 @@
       ]
     }
   ],
- "programs": [
-   {
-     "title": "Timpuyog Organization",
-     "summary": "write here",
-     "startDate": "2023-08",
-     "endDate": "Present"
-   }  
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2027)",
+      "startDate": "2023-08",
+      "endDate": "Present",
+      "courses": [ "ICS 111", "ICS 141", "ICS 211", "ICS 212", "ICS 241", "ICS 311", "ICS 314"
+      ]
+    }
   ],
-  
   "awards": [
     {
       "title": "B+ Scholarship",
