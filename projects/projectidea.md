@@ -7,7 +7,7 @@ date: 2024
 published: true
 labels:
   - C
-summary: "Sample text"
+summary: "This uses pointer access and Linked list implementation to create a sorted list of records. The user can choose operations in a Menu to communicate with the database"
 ---
 
 <hr>
