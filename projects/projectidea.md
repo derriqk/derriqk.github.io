@@ -13,7 +13,7 @@ summary: "This uses pointer access and Linked list implementation to create a so
 <hr>
 
 <pre>
-blah blah
+This project involved using two C files, one for a user interface and another for the database. 
 </pre>
 
 <hr>
