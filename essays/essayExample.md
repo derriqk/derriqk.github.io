@@ -9,8 +9,10 @@ labels:
   - Example
 ---
 
+# TITLE
+
 *sample text*
 
-## sample heading
+## SUBTITLE
 
 sample text!
