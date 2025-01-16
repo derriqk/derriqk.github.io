@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Abstract Data Type Implementation in C"
+image: 
+title: "Banking Application in C"
 date: 2024
 published: true
 labels:
