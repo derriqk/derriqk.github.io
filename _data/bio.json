@@ -22,12 +22,12 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": [ "Proficient", "C", "C++", "Java",
-      "Basics", "HTML", "CSS", "Typescript" ]
+      "keywords": [ "Proficient: C, C++, Java",
+      "Basics: HTML, CSS, Typescript" ]
     },
     {
       "name": "Unity Game Engine",
-      "keywords": [ "Basics", "C#", "Graphic Design" ]
+      "keywords": [ "Basics: C# Scripting, UI and Texture Graphic Design" ]
     }
   ],
   "education": [
