@@ -39,12 +39,15 @@
       ]
     }
   ],
-  "work": [
-    
+ "programs": [
+   {
+     "title": "Timpuyog Organization",
+     "summary": "write here",
+     "startDate": "2023-08",
+     "endDate": "Present"
+   }  
   ],
-  "volunteer": [
-    
-  ],
+  
   "awards": [
     {
       "title": "B+ Scholarship",
@@ -56,7 +59,7 @@
       "title": "Manoa Merit Scholarship",
       "date": "2023-Present",
       "awarder": "University of Hawaii Manoa",
-      "summary": "Hawai’i residents with a high school cumulative GPA of 3.6 or higher."
+      "summary": "Hawai’i residents with a cumulative GPA of 3.6 or higher."
     }
   ],
   "references": [
