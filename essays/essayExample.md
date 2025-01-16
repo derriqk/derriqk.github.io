@@ -1,16 +1,16 @@
 ---
 layout: essay
 type: essay
-title: "The Software Engineering Experience: A Motive"
+title: "sample title"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-16
 published: true
 labels:
-  - SoftwareEngineer
+  - Example
 ---
 
-*hello:Hi*
+*sample text*
 
-## HI
+## sample heading
 
-hello!
+sample text!
