@@ -10,7 +10,7 @@ labels:
 summary: "Sample text"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img/bankingapp.png>
 
 <hr>
 
