@@ -16,7 +16,7 @@ labels:
 
 Before learning about TypeScript, the only languages I have ever worked with was Java, C and C++, and a little bit of Python and C#. Even then, I didn’t even know about TypeScript itself, I’ve only heard about JavaScript thinking it was some addition to Java. To my surprise, the syntax was nowhere near the same. 
 
-### My Initial Expectations
+#### My Initial Expectations
 
 Once I had learned that TypeScript was an addition to JavaScript, it made me remember one thing that I’ve always heard. It was the bad notion that JavaScript was inconsistent with its untyped, as in unspecified, variables. Now that makes me nervous. However, I was glad to find out that TypeScript actually handled that. 
 
@@ -33,7 +33,7 @@ There were differences between the two as well, at least from what I have known 
 
 There were some completely new concepts to me too, such as union types, utility types, tuples, and also enums. 
 
-### What can I do now?
+#### What can I do now?
 *This whole thing is still quite new to me, but I already know a few ways to practice and get better moving forward.*
 
 Perhaps the best thing I can do, knowing how I learn best, is to practice by doing. One can only learn so much from repetitive reading, or watching, and even quizzing. However, personally solving questions and thinking of solutions and implementing them myself is the best way to practice. Most people would probably time themselves, but personally I think that sort of makes me nervous. Of course efficiency is everything, but I feel it’s also important to truly understand a problem apart from rushing and doing it on a trial by error basis. 
