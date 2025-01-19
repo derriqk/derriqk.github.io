@@ -11,7 +11,7 @@ labels:
 
 <img width="400px" class="rounded float-end pe-4" src="../img/">
 
-# TITLE
+## SUBTITLE
 
 *sample text*
 
