@@ -24,7 +24,7 @@ Software engineering has that same motivation for me. I want to design software 
 
 For the future, as I continue to pursue my degree, a technical skill I hope to build on and improve upon are my efficiency in various languages. I only know a few right now, but I know that understanding more can really add diversity to a skillset and make me more available. As for more practical skills, I want to develop the cooperative capability to work in any team environment and do my part in making sure the team succeeds and reaches its goals. Within that team, I also want to create relationships that are built on supporting one another and where feedback can help everyone improve. 
 
-As for experiences as I move forward, I hope to experience more outside opportunities other than just academic and in-school activities. I realize that where school teaches you technical skills and expectations, outside opportunities like internships will give me the fundamentals of the real world. These are things such as teamwork, client-oriented assignments and instructions, and coding that not only I should be able to read and understand, but allow others to build on it too. 
+As for the experiences as I move forward, I hope to be a part of more outside opportunities other than just academic and in-school activities. I realize that where school teaches you technical skills and expectations, outside opportunities like internships will give me the fundamentals of the real world. These are things such as teamwork, client-oriented assignments and instructions, and coding that not only I should be able to read and understand, but allow others to build on it too. 
 
 *But why game development?*
 
