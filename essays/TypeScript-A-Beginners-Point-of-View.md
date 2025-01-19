@@ -10,7 +10,7 @@ labels:
   - Reflection
 ---
 
-<img width="400px" class="rounded float-end pe-4" src="../img/">
+<img width="400px" class="rounded float-start pe-4" src="../img/typescript.png">
 
 ## Prologue: Before TypeScript
 
@@ -21,6 +21,8 @@ Before learning about TypeScript, the only languages I have ever worked with was
 Once I had learned that TypeScript was an addition to JavaScript, it made me remember one thing that I’ve always heard. It was the bad notion that JavaScript was inconsistent with its untyped, as in unspecified, variables. Now that makes me nervous. However, I was glad to find out that TypeScript actually handled that. 
 
 Other than that, it was a great learning experience overall.
+
+<img width="400px" class="rounded float-end pe-4" src="../img/candcplusplus.png">
 
 ## TypeScript VS C/C++
 *How do these two compare?*
