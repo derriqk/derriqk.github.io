@@ -4,7 +4,7 @@ type: essay
 title: "Software Engineering is More than Just Code"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-18
-published: true
+published: false
 labels:
   - Interests
   - Career Goals
