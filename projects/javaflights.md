@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/plane.jpg
+image: img/planefly.jpg
 title: "Flight Class in Java"
 date: 2023
 published: true
