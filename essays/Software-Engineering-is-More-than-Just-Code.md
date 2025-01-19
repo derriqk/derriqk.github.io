@@ -18,7 +18,7 @@ To me, software engineering is more than just coding, it is also art. My interes
 
 Software engineering has that same motivation for me. I want to design software that not only I could be proud of, but anyone who comes across it would be proud too. I believe that applications should also be very convenient and understandable for anyone using it. Considering I was born and raised in a time where technology was most prominent, I understand what it’s like using the internet, browsing through websites, and all its struggles. I want to be part of that contribution to make applications understandable, convenient, all the while pleasing to look at. 
 
-## The Goals for Future Me:
+## The goals for future me:
 
 *A journey lies ahead*
 
