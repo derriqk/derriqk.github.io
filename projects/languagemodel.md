@@ -1,19 +1,21 @@
 ---
 layout: project
 type: project
-image: img/planefly.png
+image: img/modelbrain.jpg
 title: "Basic Language Model in Java"
 date: 2023
 published: true
 labels:
   - Java
-summary: "This is a flight superclass that holds information such as flight number, destination and origin. THis class has three subclasses that all extend this superclass. It is the passengerflight, militaryflight, and cargoflight"
+summary: "This uses multiple class files to build a program. This program holds individual words in a linked list. Each word on the linked list has its own linked list of words that follow it and the amount of that word. By using the list and the frequency, it uses Math.random() based on the frequency to generate text."
 ---
 
 <hr>
 
 <pre>
 
+  
+  
   This project was done for my intro to programming class in my freshman year. The purpose of this project was to apply most of what I learned 
   from the course into a program. This was a solo project so only contributors were me. The project essentially creates an array list of type 
   Flight and is populated by the subclasses. Then, read a text file and compare the populated array with the information on the file. Print 
