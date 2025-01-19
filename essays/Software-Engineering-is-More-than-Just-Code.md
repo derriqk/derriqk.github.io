@@ -26,6 +26,6 @@ For the future, as I continue to pursue my degree, a technical skill I hope to b
 
 As for the experiences as I move forward, I hope to be a part of more outside opportunities other than just academic and in-school activities. I realize that where school teaches you technical skills and expectations, outside opportunities like internships will give me the fundamentals of the real world. These are things such as teamwork, client-oriented assignments and instructions, and coding that not only I should be able to read and understand, but allow others to build on it too. 
 
-*But why game development?*
+*But why game development for me?*
 
 An overall goal I want to achieve is to be in game development. I look at software engineering and don’t just think of the lines of text, or implemented back-end algorithms, I think of games. Game development not only has the graphics and designs to create new worlds and experiences, it also has in-depth stories and purposes, all with interactions between the game maker's characters and players. Finally, games also have a community for players built on the same appreciation they have for the game.
