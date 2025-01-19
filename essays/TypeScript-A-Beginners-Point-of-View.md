@@ -10,7 +10,7 @@ labels:
   - Reflection
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/typescript.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/typescript.png">
 
 ## Prologue: Before TypeScript
 
@@ -22,7 +22,7 @@ Once I had learned that TypeScript was an addition to JavaScript, it made me rem
 
 Other than that, it was a great learning experience overall.
 
-<img width="400px" class="rounded float-end pe-4" src="../img/cpp.png">
+<img width="100px" class="rounded float-end pe-4" src="../img/cpp.png">
 
 ## TypeScript VS C/C++
 *How do these two compare?*
