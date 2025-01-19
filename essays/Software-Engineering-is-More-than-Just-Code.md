@@ -10,7 +10,7 @@ labels:
   - Career Goals
 ---
 
-<img width="600px" class="rounded float-end pe-4" src="../img/gaming.png">
+<img width="400px" class="rounded float-end pe-4" src="../img/gaming.png">
 
 *Look beyond the lines itself, and see the beauty they create*
 
