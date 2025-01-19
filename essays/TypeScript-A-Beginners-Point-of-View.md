@@ -12,7 +12,7 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/typescript.png">
 
-## Prologue: Before TypeScript
+## Before TypeScript
 
 Before learning about TypeScript, the only languages I have ever worked with was Java, C and C++, and a little bit of Python and C#. Even then, I didn’t even know about TypeScript itself, I’ve only heard about JavaScript thinking it was some addition to Java. To my surprise, the syntax was nowhere near the same. 
 
