@@ -31,3 +31,5 @@ As for the experiences as I move forward, I hope to be a part of more outside op
 *But why game development for me?*
 
 An overall goal I want to achieve is to be in game development. I look at software engineering and don’t just think of the lines of text, or implemented back-end algorithms, I think of games. Game development not only has the graphics and designs to create new worlds and experiences, it also has in-depth stories and purposes, all with interactions between the game maker's characters and players. Finally, games also have a community for players built on the same appreciation they have for the game.
+
+*AI was used for spell and grammar check*
