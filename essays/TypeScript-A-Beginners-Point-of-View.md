@@ -42,6 +42,6 @@ Perhaps the best thing I can do, knowing how I learn best, is to practice by doi
 
 For now, I’ll keep learning and I’ll just have to see what awaits me. 
 
-*AI was used for spell and grammar check*
+*AI was used to enhance title effectiveness*
 
 
