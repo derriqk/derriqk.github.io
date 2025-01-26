@@ -36,9 +36,9 @@ summary: "This uses pointer access and Linked list implementation to create a so
   the concept and essentials of a program so that it can be implemented in any language. Another practical skill were debugging and testing. 
   I learned what it took to set up debugged print statements as well as a testing plan with expected outcomes versus actual outcomes when 
   running through the test. 
-
-  Source: [Test Link](https://google.com)
   
 </pre>
 
 <hr>
+
+ Source: [Found here](https://github.com/derriqk/CBanking)
