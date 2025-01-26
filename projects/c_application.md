@@ -37,7 +37,7 @@ summary: "This uses pointer access and Linked list implementation to create a so
   I learned what it took to set up debugged print statements as well as a testing plan with expected outcomes versus actual outcomes when 
   running through the test. 
 
-  Source: https://github.com/derriqk/CBanking.git
+  Source: [code found here](https://github.com/derriqk/CBanking.git)
   
 </pre>
 
