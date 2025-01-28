@@ -6,7 +6,8 @@ title: "Asking Questions Shouldn’t Be Scary if Done Correctly"
 date: 2025-01-16
 published: true
 labels:
-  - TEMPLATE
+  - Smart Questions
+  - StackOverflow
 ---
 
 <img width="400px" class="rounded float-end pe-4" src="../img/stack-overflow-logo-crop-for-twitter.webp">
