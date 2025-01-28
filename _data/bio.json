@@ -6,7 +6,7 @@
     "email": "derrickq@hawaii.edu",
     "phone": "808-437-0029",
     "website": "https://derriqk.github.io",
-    "summary": "I am studying Information and Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Fall, 2026.",
+    "summary": "I am studying Information and Computer Science at the University of Hawaii at Manoa. I expect to graduate in Fall, 2026.",
     "location": { "address": "", "postalCode": "96727", "city": "Honokaa", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "derriqk", "url": "http://github.com/derriqk" },
@@ -33,7 +33,8 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2026)",
+      "area": "Information and Computer Science (expected Fall, 2026)",
+      "cumulative gpa": "3.94",
       "startDate": "2023-08",
       "endDate": "Present",
       "courses": [ "ICS 111", "ICS 141", "ICS 211", "ICS 212", "ICS 241", "ICS 311", "ICS 314"
