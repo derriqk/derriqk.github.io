@@ -41,4 +41,3 @@ summary: "This uses pointer access and Linked list implementation to create a so
 
 <hr>
 
- Source: [Found here](https://github.com/derriqk/CBanking)
