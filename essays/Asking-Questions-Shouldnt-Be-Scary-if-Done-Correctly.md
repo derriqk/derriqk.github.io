@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Asking Questions Shouldn’t Be Scary if Done Correctly"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-16
+date: 2025-01-27
 published: true
 labels:
   - Smart Questions
