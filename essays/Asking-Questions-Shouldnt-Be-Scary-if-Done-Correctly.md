@@ -70,6 +70,8 @@ There are other key things such as general manners when asking strangers for hel
 
 Following these guidelines will ensure that anyone will have a great experience when in discussions, whether you are the one with the questions or the one answering, or even the bystander who came across the post in the future. 
 
+*AI was used to clarify posts made in StackOverflow as some topics are unknown to me*
+
 
 
 
