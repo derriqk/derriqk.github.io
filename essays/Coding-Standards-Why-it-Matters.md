@@ -15,7 +15,7 @@ labels:
 ### What are Coding Standards? Some context:
 
 Essentially, coding standards are a set of rules and guidelines one must follow when coding. By following these set of guidelines, 
-it can almost always guarantee that your code will come out clean and readable. Just like any standards, they are there for a reason! 
+it can almost always guarantee that your code will come out clean and readable. Just like any standards, they ensure quality! 
 
 ### Why they matter: 
 
@@ -50,6 +50,8 @@ spelling mistakes that pop up as you code, why not fix it along the way. In the 
 
 Coding standards can be thought of as any other standards, they are there to keep things in regulation not just efficiently, but smoothly. 
 Following these standards ensures that the whole experience is great for everyone. 
+
+*AI used to give clarity on Coding Standards*
 
 
 
