@@ -10,7 +10,7 @@ labels:
   - Coding Standards
 ---
 
-<img width="400px" class="rounded float-end pe-4" src="../img/">
+<img width="400px" class="rounded float-end pe-4" src="../img/https___dev-to-uploads.s3.amazonaws.com_uploads_articles_g8kh27d18px6jflsfpj3.jpg">
 
 ### What are Coding Standards? Some context:
 
