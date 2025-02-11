@@ -12,12 +12,16 @@ labels:
 
 <img width="400px" class="rounded float-end pe-4" src="../img/https___dev-to-uploads.s3.amazonaws.com_uploads_articles_g8kh27d18px6jflsfpj3.jpg">
 
-### What are Coding Standards? Some context:
+### What are Coding Standards? 
+
+*Some context:*
 
 Essentially, coding standards are a set of rules and guidelines one must follow when coding. By following these set of guidelines, 
 it can almost always guarantee that your code will come out clean and readable. Just like any standards, they ensure quality! 
 
 ### Why they matter: 
+
+*Consistency and less errors are just a few of why it matters!*
 
 For one, there’s the enforced consistency with coding standards. Imagine working on a team with not just a few but possibly tens of people, 
 or even more. There's no doubt that code written in that team will be passed around and used for bigger projects. Now, imagine if the code 
