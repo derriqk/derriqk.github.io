@@ -10,7 +10,7 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/bootstrap.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/bootstrap.jpg">
 
 ## Just what are Frameworks?
 
@@ -73,11 +73,11 @@ time you save is incredible.
 
 Here is my recreation of the Pinterest explore page with Bootstrap 5 and minimal of my own style edits:
 
-<img width="400px" class="rounded" src="../img/pinterestbootstrap.png">
+<img width="400px" class="rounded float-start" src="../img/pinterestbootstrap.png">
 
 Versus the original: 
 
-<img width="400px" class="rounded" src="../img/pinterest.png">
+<img width="400px" class="rounded float-end" src="../img/pinterest.png">
 
 
 
