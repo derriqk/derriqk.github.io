@@ -12,7 +12,7 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/bootstrap.jpg">
 
-## Just what are Frameworks?
+### Just what are Frameworks?
 
 For those who may not be familiar with UI designing or web page creation, UI Frameworks can be reimagined as a library. 
 A library where you can pick and use defined structures to keep the process simple. 
@@ -30,7 +30,7 @@ So, the same could be said for learning frameworks like Bootstrap 5. It may take
 different classes, and how they all behave all together. However, that beats the time trying to figure those out, plus, creating 
 the raw code in CSS and HTML yourself. 
 
-## My personal experience with raw CSS and HTML:
+### My personal experience with raw CSS and HTML:
 
 Before learning about Bootstrap 5, I attempted creating a website on my own. That was through pure CSS and HTML. An experience 
 like that is something only someone who has gone through the same thing can understand. 
@@ -53,7 +53,7 @@ Even then after all that time, my page still didn’t look great and anywhere ne
 Overall, that experience was very time consuming. The different components itself may not seem hard, but putting them all together 
 definitely was. 
 
-## My personal experience with Bootstrap 5:
+### My personal experience with Bootstrap 5:
 
 It all changed when I started learning how to use Bootstrap 5. 
 
