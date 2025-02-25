@@ -73,7 +73,7 @@ time you save is incredible.
 
 Here is my recreation of the Pinterest explore page with Bootstrap 5 and minimal of my own style edits:
 
-<img width="400px" class="rounded float-end pe-4" src="../img/pinterestbootstrap.png">
+<img width="400px" class="rounded" src="../img/pinterestbootstrap.png">
 
 
 
