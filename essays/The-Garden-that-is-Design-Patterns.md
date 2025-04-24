@@ -10,7 +10,7 @@ labels:
   - Smart Programming
 ---
 
-<img width="400px" class="rounded float-end pe-4" src="../img/garden">
+<img width="400px" class="rounded float-end pe-4" src="../img/garden.jpg">
 
 In almost every field of work, there lies an accumulation of generations worth of experiences. Whether that is the trial and error of various 
 proofs and understanding, or the sacrifices to know what simply works and what doesn’t. 
@@ -21,6 +21,8 @@ not exact instructions or detailed directions, but a guide.
 ## Picture a garden:
 
 #### The Seedless Prototype:
+
+<img width="400px" class="rounded float-end pe-4" src="../img/cutting.webp">
 
 Now, imagine wanting a new copy of a flower. That flower has everything you desire. It has the perfect color, the sweetest scent, and attracts the best pollinators. 
 
@@ -36,6 +38,8 @@ I know I saved countless hours and prevented errors by using repository prototyp
 it truly my own. That is what a prototype should be.
 
 #### The Plant Shop: Request and Get
+
+<img width="400px" class="rounded float-end pe-4" src="../img/plantshop.jpeg">
 
 Perhaps you wanted to expand your garden, but you didn’t know how to get the right result or have the seeds to begin with. 
 
