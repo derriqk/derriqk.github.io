@@ -20,7 +20,7 @@ not exact instructions or detailed directions, but a guide.
 
 ## Picture a garden:
 
-### The Seedless Prototype:
+#### The Seedless Prototype:
 
 Now, imagine wanting a new copy of a flower. That flower has everything you desire. It has the perfect color, the sweetest scent, and attracts the best pollinators. 
 
@@ -35,7 +35,7 @@ It saves so much time as well as prevents unnecessary errors when trying to figu
 I know I saved countless hours and prevented errors by using repository prototypes. It had all the necessary functionality of a webpage, but I was still able to build on it and make 
 it truly my own. That is what a prototype should be.
 
-### The Plant Shop: Request and Get
+#### The Plant Shop: Request and Get
 
 Perhaps you wanted to expand your garden, but you didn’t know how to get the right result or have the seeds to begin with. 
 
@@ -60,7 +60,7 @@ In terms of software engineering, using a factory design pattern can hide so muc
 This is exactly what I’ve done in so many projects and even the more basic ones. It can be as creating an object type and then using constructors to create more of them, or as 
 complicated as creating many objects that all depend on each other, yet still functions the way you wanted without recreating everything. 
 
-## So What?
+### So What?
 
 With these specific design patterns in mind, you can see just how much it can help when working efficiently. Why trouble yourself with unnecessary work when solutions could already exist.
 
