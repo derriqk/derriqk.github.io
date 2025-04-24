@@ -10,7 +10,6 @@ labels:
   - Smart Programming
 ---
 
-<img width="400px" class="rounded float-end pe-4" src="../img/garden.jpg">
 
 In almost every field of work, there lies an accumulation of generations worth of experiences. Whether that is the trial and error of various 
 proofs and understanding, or the sacrifices to know what simply works and what doesn’t. 
