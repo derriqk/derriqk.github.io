@@ -38,7 +38,7 @@ it truly my own. That is what a prototype should be.
 
 #### The Plant Shop: Request and Get
 
-<img width="400px" class="rounded float-end pe-4" src="../img/plantshop.jpeg">
+<img width="400px" class="rounded float-start pe-4" src="../img/plantshop.jpeg">
 
 Perhaps you wanted to expand your garden, but you didn’t know how to get the right result or have the seeds to begin with. 
 
