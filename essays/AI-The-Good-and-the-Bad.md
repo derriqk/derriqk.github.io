@@ -104,17 +104,17 @@ With all that being said, just how did it influence my learning overall? Perhaps
 
 AI is more than just prompting assignment questions though, and is definitely more than just within this class. For example, the use of AI has been used in recognition software. Whether this is as simple as a face scan, or entire vehicles running on obstacle and road detection. AI has been a place of constant innovation, but aso debate and doubts. Nonetheless, AI has been able to save time and be effective when used correctly. 
 
-## AI: Its Challenges and Opportunities: 
+### AI: Its Challenges and Opportunities: 
 
 As for me, AI has given me some challenges. For instance, it isn’t always correct when giving answers or suggestions. Sometimes I find that it also over complicates simple solutions. This is why I feel it is important to know what you are doing and resist the urge to constantly prompt AI. A way to integrate AI use in software engineering education can be to have experiences that cover all the pros and cons of AI. For instance, one experience can be showcasing all the AI tools and what they are best used for, and another experience listing how relying on AI can impact your own understanding. Once everyone gets a sense of AI and how to use it responsibly, it can be easily integrated into the system. 
 
-## AI vs. Traditional Teaching:
+### AI vs. Traditional Teaching:
 
 Now, how does it compare with traditional teaching methods? For one, traditional teaching methods are always safe. By ‘safe’ I mean that you can never go wrong trusting whatever is being taught. To teach wrong would contradict the purpose of teaching the course. It would be relevant to the course as well. Engagement and skill development is also something that can be worked on for both the professor and the student. Communication would go both ways and both can benefit. 
 
 As for AI, sure it may be correct most of the time, but it can also be complicated and go beyond the scope of the class. It is also mainly up to the student to make sure they can retain information and still learn while using AI. 
 
-## Future Considerations:
+### Future Considerations:
 
 Looking ahead, I can see two ways AI could play a role in education in software engineering. One, it can continue to be helpful for those who use it responsively. It can become very effective to the point where courses can ditch basic lessons and even make most lectures entirely up to AI for students to learn on their own. 
 
@@ -122,7 +122,7 @@ Another possibility is that it only gets worse in terms of competence for everyo
 
 There are definitely many in between scenarios already happening, and simply removing it would be such an option either. The best way to improve would be to just start accepting it while also bringing awareness to everything it can cause, good and bad. 
 
-## My Takeaways:
+### My Takeaways:
 
 Overall, I believe that it hasn’t hindered my learning as a student despite all the bad it could cause. I know that I am using it honestly and that I don’t blindly follow it either. It is really great that using AI can be totally controlled by the student to benefit them in the way that helps them most. 
 
