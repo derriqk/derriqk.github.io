@@ -26,7 +26,7 @@ Throughout the semester in ICS 314, I was able to experience using AI and have s
 
 WODs, which were the workout of the day, aimed to be covering exactly what resources we learned for that module. To not pass the WOD simply meant the information escaped you. 
 
-<strong> Online Experience WODs: <strong>
+<strong> Online Experience WODs: 
 For experience WODs I never used AI. Most of the time the experiences had corresponding video tutorials done by the professor which I felt is much more trustworthy than AI. 
 
 I also did the experience myself first before looking at the solutions so I can still challenge myself, or maybe even surprise myself that I was able to do the experience on my own. I found this beneficial to any in-person WODs because by knowing 90% of the topic myself, using AI to solve specific problems would not be a problem rather than relying on AI for 100% of the process. 
