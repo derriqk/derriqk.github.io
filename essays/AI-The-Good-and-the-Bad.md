@@ -10,7 +10,7 @@ labels:
   - AI 
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/logochat.jpg">
+<img width="250px" class="rounded float-start pe-4" src="../img/pilotlogo.png">
 
 ### Some Context:
 
@@ -55,7 +55,7 @@ Using AI for my essays was extremely useful especially when some essays were bas
 
 Some of the prompts I asked were, “Tell me what this person is asking about” and also “So, is this what this person meant: [my own summary] and tell me if I understood.”
 
-<img width="400px" class="rounded float-end pe-4" src="../img/pilotlogo.png">
+<img width="200px" class="rounded float-end pe-4" src="../img/logochat.jpg">
 
 **Final project:**
 
