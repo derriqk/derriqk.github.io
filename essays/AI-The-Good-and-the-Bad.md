@@ -12,7 +12,7 @@ labels:
 
 <img width="400px" class="rounded float-end pe-4" src="../img/">
 
-## Some Context:
+### Some Context:
 
 AI plays a big role in education for students, so much so that there’s constant debate on whether or not it should even be used at all. However, I truly believe that it is very helpful when used the right way. 
 
@@ -22,11 +22,11 @@ However it is also wrong many times. Especially when it has zero to little conte
 
 Throughout the semester in ICS 314, I was able to experience using AI and have seen flaws and also their benefits. 
 
-## Just what did I use it for exactly? 
+### Just What Did I Use it for Exactly? 
 
 WODs, which were the workout of the day, aimed to be covering exactly what resources we learned for that module. To not pass the WOD simply meant the information escaped you. 
 
-Online Experience WODs:
+<strong> Online Experience WODs: <strong>
 For experience WODs I never used AI. Most of the time the experiences had corresponding video tutorials done by the professor which I felt is much more trustworthy than AI. 
 
 I also did the experience myself first before looking at the solutions so I can still challenge myself, or maybe even surprise myself that I was able to do the experience on my own. I found this beneficial to any in-person WODs because by knowing 90% of the topic myself, using AI to solve specific problems would not be a problem rather than relying on AI for 100% of the process. 
@@ -96,19 +96,19 @@ Quality assurance was also made much easier with AI. There's no doubt that error
 
 By simply asking “Terminal just told me this [error], what could I do?” I was able to solve problems without all the necessary knowledge. Now, especially with the more common errors, I know what to do without asking so it has definitely helped in that regard. Even with AI finding a solution can still be very frustrating, so I can only imagine what not using AI would feel like. 
 
-## How did it impact me? 
+### How Did it Impact Me? 
 
 With all that being said, just how did it influence my learning overall? Perhaps the best thing I have been able to use it for would be similar to a tutor. I don’t simply prompt the entire assignment instructions and copy the answer and call it a day, that would be detrimental to my learning. Instead, I first like to tackle the problems myself first. Then as I slowly work through the problem, verify with AI that I’m doing the right thing. By constantly doing things on my own first, I still develop my own skills, almost like a form of active recall while verifying I am right along the way. 
 
-## AI beyond this class:
+### AI Beyond This Class:
 
 AI is more than just prompting assignment questions though, and is definitely more than just within this class. For example, the use of AI has been used in recognition software. Whether this is as simple as a face scan, or entire vehicles running on obstacle and road detection. AI has been a place of constant innovation, but aso debate and doubts. Nonetheless, AI has been able to save time and be effective when used correctly. 
 
-## AI: its challenges and opportunities: 
+## AI: Its Challenges and Opportunities: 
 
 As for me, AI has given me some challenges. For instance, it isn’t always correct when giving answers or suggestions. Sometimes I find that it also over complicates simple solutions. This is why I feel it is important to know what you are doing and resist the urge to constantly prompt AI. A way to integrate AI use in software engineering education can be to have experiences that cover all the pros and cons of AI. For instance, one experience can be showcasing all the AI tools and what they are best used for, and another experience listing how relying on AI can impact your own understanding. Once everyone gets a sense of AI and how to use it responsibly, it can be easily integrated into the system. 
 
-## AI vs Traditional Teaching:
+## AI vs. Traditional Teaching:
 
 Now, how does it compare with traditional teaching methods? For one, traditional teaching methods are always safe. By ‘safe’ I mean that you can never go wrong trusting whatever is being taught. To teach wrong would contradict the purpose of teaching the course. It would be relevant to the course as well. Engagement and skill development is also something that can be worked on for both the professor and the student. Communication would go both ways and both can benefit. 
 
@@ -122,7 +122,7 @@ Another possibility is that it only gets worse in terms of competence for everyo
 
 There are definitely many in between scenarios already happening, and simply removing it would be such an option either. The best way to improve would be to just start accepting it while also bringing awareness to everything it can cause, good and bad. 
 
-## My takeaways:
+## My Takeaways:
 
 Overall, I believe that it hasn’t hindered my learning as a student despite all the bad it could cause. I know that I am using it honestly and that I don’t blindly follow it either. It is really great that using AI can be totally controlled by the student to benefit them in the way that helps them most. 
 
