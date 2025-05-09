@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI: The Good and the Bad"
+title: "AI: Just How is it Used?"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-09
 published: true
