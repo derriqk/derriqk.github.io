@@ -39,5 +39,7 @@ summary: "This uses pointer access and Linked list implementation to create a so
   
 </pre>
 
+<img width="400px" class="rounded float-end pe-4" src="../img/cbanking.png">
+
 <hr>
 
