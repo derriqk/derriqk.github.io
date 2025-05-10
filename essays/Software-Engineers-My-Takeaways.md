@@ -53,6 +53,16 @@ Another great pattern is the factory design pattern, which allows efficient and 
 
 #### Ethics in Software Engineering:
 
+*Being Ethical*
+
 Lastly, one big takeaway from this course would be the ethics in software engineering. 
 
 In terms of technicality, this one isn’t necessarily a skill in ways of coding language and syntax, or understanding networks and project management, it is a moral responsibility. 
+
+During the semester we touched up on the ethics behind software engineering. This includes various guidelines that lay out expectations and ‘good’ practices, as well as difficult, but possible, scenarios that impose a moral decision. 
+
+This was through resources as well as a class debate on our standings when given a tough scenario. The overall important lesson was that it isn’t easy. There will always be a yes, or a no, but there will also always be an ‘it depends on this or that.’ It is a gray area that requires more than just following the rules, it’s a moral responsibility that takes experience. 
+
+In the web application made for this class, a way we ensure ethical behavior was a proper login system that works to defend a user’s work and data. 
+
+*Why is this an important concept beyond web application?*
