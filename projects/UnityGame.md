@@ -24,7 +24,7 @@ summary: "This was created in the Game Dev Club for our Spring 2025 Game Jam. It
   
 </pre>
 
-<img width="400px" class="rounded float-end pe-4" src="../img/gamedev.png">
+<img width="700px" class="rounded pe-4" src="../img/gamedev.png">
 
 <hr>
 
