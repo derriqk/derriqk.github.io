@@ -7,13 +7,14 @@ date: 2024
 published: true
 labels:
   - C
-summary: "This uses pointer access and Linked list implementation to create a sorted list of records. The user can choose operations in a Menu to communicate with the database"
+summary: "A solo project for ICS 212 which uses pointer access and Linked list implementation to create a sorted list of records. The user can choose operations in a Menu to communicate with the database."
 ---
 
 <hr>
 
 <pre>
   
+  Overview:
   This project involved using two C files, one for a user interface and another for the database. 
   
   The user interface involved a while loop that continues to run until the user chooses the quit option. 
@@ -31,6 +32,7 @@ summary: "This uses pointer access and Linked list implementation to create a so
   The whole process involved learning the project outcomes, learning the steps behind pseudocode, implenting pseudocode, and getting a gist for 
   what a testing environment would look like. 
 
+  What I learned:
   From this project I was able to learn many technical skills such as the fundamentals of pointers for C, the process behind allocating
   space for memory and deleting it properly. As for practical skills, I learned the importance of pseudocode and that good pseudocode captures 
   the concept and essentials of a program so that it can be implemented in any language. Another practical skill were debugging and testing. 
