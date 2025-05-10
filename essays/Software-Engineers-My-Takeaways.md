@@ -10,7 +10,7 @@ labels:
   - Reflection
 ---
 
-<img width="400px" class="rounded float-end pe-4" src="../img/">
+<img width="400px" class="rounded float-end pe-4" src="../img/lessons.jpg">
 
 ### Looking Back:
 *Just what have I learned?*
