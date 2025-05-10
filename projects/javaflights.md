@@ -4,7 +4,7 @@ type: project
 image: img/planefly.jpg
 title: "Flight Class in Java"
 date: 2023
-published: true
+published: false
 labels:
   - Java
 summary: "This is a flight superclass that holds information such as flight number, destination and origin. THis class has three subclasses that all extend this superclass. It is the passengerflight, militaryflight, and cargoflight"
