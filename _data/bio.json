@@ -10,7 +10,8 @@
     "location": { "address": "", "postalCode": "96727", "city": "Honokaa", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "derriqk", "url": "http://github.com/derriqk" },
-      { "network": "instagram", "username": "derr1qk", "url": "http://instagram.com/derr1qk" }
+      { "network": "instagram", "username": "derr1qk", "url": "http://instagram.com/derr1qk" },
+      { "network": "linkedin", "username": "Derrick Quiamas", "url": "https://www.linkedin.com/in/derrick-q-7a5737341/"}
     ]
   },
   "interests": [
