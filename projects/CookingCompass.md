@@ -57,6 +57,7 @@ summary: "This project was to demonstrate everything I have learned in ICS 314. 
 </pre>
 
 [Visit the project homepage](https://cooking-compass.github.io/)
+
 [Visit the Github Organization page](https://github.com/Cooking-Compass)
 
 <img width="700px" class="rounded pe-4" src="../img/cookingcompasshomepage.png">
