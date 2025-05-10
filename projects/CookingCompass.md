@@ -7,7 +7,7 @@ date: 2025
 published: true
 labels:
   - Next.js
-  - PostgresSQL
+  - PostgreSQL
   - React
 summary: "This project was to demonstrate everything I have learned in ICS 314. It features a web application meant to benefit UH Manoa students. It is a website designed to share toaster oven recipes. It uses Next.js, PostgressSQL, and React to make the front ends and back ends to be fully functional."
 ---
