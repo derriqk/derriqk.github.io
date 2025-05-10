@@ -73,3 +73,14 @@ To intend to do harm would contradict the very idea.
 
 A way I would see myself applying this to other areas would be working with AI. Whether I am working with art, faces, voices, or literature, it is up to me to keep things honest. That means being open about the work I am doing, making sure all work tested on is not stolen. To do this would protect the work and identities of people and is solely dependent on my ability to be ethically responsible.   
 
+### My Final Thoughts:
+
+This class has taught me so many things that are well enough applicable to web development, but it also taught me the key concepts that allow me to use these skills anywhere. Coding standards has taught me the importance of keeping things organized, where design patterns taught me how to stay consistent and work efficiently, and lastly there's the ethics that makes me a better programmer morally in general. 
+
+Of course, so many more was learned throughout the semester, and I am excited to keep developing my skills as a software engineer while taking these lessons with me along the way. 
+
+
+
+
+*AI used for grammar and structure*
+
