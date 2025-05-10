@@ -17,14 +17,20 @@ summary: "This project was to demonstrate everything I have learned in ICS 314. 
 <pre>
   
   Overview:
-  Cooking Compass is an application that allows UH Mānoa students to share and search for creative recipes that respect the
-  constraints—limited kitchen resources, cooking skills, time—many college-goers face. By providing opportunites to find
-  creative, doable recipes, this project aim to foster a community that celebrates resourcefulness, healthy eating, and the 
-  joy of cooking.
+  
+    Cooking Compass is an application that allows UH Mānoa students to share and search for creative recipes that respect the
+    constraints—limited kitchen resources, cooking skills, time—many college-goers face. By providing opportunites to find
+    creative, doable recipes, this project aim to foster a community that celebrates resourcefulness, healthy eating, and the 
+    joy of cooking.
 
   My Contributions:
 
   What I Learned:
+  
+    Front End Development:
+
+    Back End Development:
+  
 </pre>
 
 [Visit the project homepage](https://cooking-compass.github.io/)
