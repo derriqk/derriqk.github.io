@@ -66,3 +66,10 @@ This was through resources as well as a class debate on our standings when given
 In the web application made for this class, a way we ensure ethical behavior was a proper login system that works to defend a user’s work and data. 
 
 *Why is this an important concept beyond web application?*
+
+In general, the mindset of keeping those who use your work protected, or that making sure your product is purely beneficial, is important for any area. 
+
+To intend to do harm would contradict the very idea. 
+
+A way I would see myself applying this to other areas would be working with AI. Whether I am working with art, faces, voices, or literature, it is up to me to keep things honest. That means being open about the work I am doing, making sure all work tested on is not stolen. To do this would protect the work and identities of people and is solely dependent on my ability to be ethically responsible.   
+
