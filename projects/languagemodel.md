@@ -4,7 +4,7 @@ type: project
 image: img/modelbrain.jpg
 title: "Basic Language Model in Java"
 date: 2023
-published: true
+published: false
 labels:
   - Java
 summary: "This uses multiple class files to build a program. This program holds individual words in a hashttable. Each word on the table has its own array of words that follow it and the amount of that word. By using the table and the frequency, it uses Math.random() based on the frequency to generate text. Based on that follow up text, it then uses the words following that one, and so on."
