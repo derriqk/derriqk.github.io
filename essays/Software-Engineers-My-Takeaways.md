@@ -17,7 +17,11 @@ labels:
 
 Over the course of this semester, I have learned many new concepts and skills that allowed me to further develop myself as a software engineer. Now that it is nearing the end of this class, I can look back at all the concepts and come to the conclusion that these will benefit me beyond software engineering. 
 
-The skills learned, although definitely gave me everything I know to create web applications, are more than that. There are many skills and practices in general that apply to much more than just the software we create. Whether that is the clean practices, the organized teamwork and coordination, the motivation and ethics behind inventions, or overall ability to create good products, these skills will help me in so many other ways. 
+The skills learned, although definitely gave me everything I know to create web applications, 
+are more than that. There are many skills and practices in general that apply to much more than just the 
+software we create. Whether that is the clean practices, the organized teamwork and coordination, 
+the motivation and ethics behind inventions, or overall ability to create good products, these skills 
+will help me in so many other ways. 
 
 #### Coding Standards:
 
