@@ -27,7 +27,7 @@ summary: "This was created in the Game Dev Club for our Spring 2025 Game Jam. It
     phase of the boss level. For each scene I also created the necessary scripts for it to run the way it 
     is intended (of course without the assets, just the basic blocking and functions) 
   
-    As for the cripts I made:
+    As for the scripts I made:
     Tutorial Scene: text spawner script that makes instructions appear on player collision
     Boss Phase 1: random asset selector that would later be used as a mechanism to progress through the level 
     by hitting random chosen eggs
