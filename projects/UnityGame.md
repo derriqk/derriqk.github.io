@@ -35,7 +35,7 @@ summary: "This was created in the Game Dev Club for our Spring 2025 Game Jam. It
   What I learned:
 
     Importance of Task Management:
-      By using a master worksheet, the entire club has an expected tineline and task lists as well as assigning those 
+      By using a master worksheet, the entire club had an expected timeline and task lists as well as assigning those 
       tasks. It helped keep organization, maintain order and ensure that everyone was able to contribute. 
 
     Game Development Experience:
