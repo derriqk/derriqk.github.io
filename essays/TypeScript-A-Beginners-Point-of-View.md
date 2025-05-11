@@ -4,7 +4,7 @@ type: essay
 title: "TypeScript: A Beginner's Point of View"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-19
-published: true
+published: false
 labels:
   - TypeScript
   - Reflection
