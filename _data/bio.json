@@ -45,10 +45,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Information and Computer Science (expected Fall, 2026)",
+      "area": "Information and Computer Science",
       "studyType": "Bachelors Degree",
+      "gpa": "3.91",
       "startDate": "2023-08",
-      "endDate": "Present",
+      "endDate": "2026-12",
       "courses": [ 
         "ICS 111 & 211: Intro to Computer Science", 
         "ICS 141 & 241: Discrete Mathematics", 
