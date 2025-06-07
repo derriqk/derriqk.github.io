@@ -4,7 +4,7 @@ type: project
 image: img/artportalimg.png
 title: "Art Portal: View and Request Art"
 date: 2025
-published: false
+published: true
 labels:
   - Next.js
   - PostgreSQL
