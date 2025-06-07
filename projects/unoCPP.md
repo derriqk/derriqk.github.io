@@ -30,6 +30,9 @@ summary: "A solo project I made during June of 2025. I did this to refresh my kn
 </pre>
 
 [Visit the project repository](https://github.com/derriqk/UnoCPP)
+
+<br>
+
 <img width="400px" class="rounded pe-4" src="../img/unoterminal.png">
 
 <hr>
