@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cookingcompass.png
+image: img/artportalimg.png
 title: "Art Portal: View and Request Art"
 date: 2025
 published: false
@@ -41,12 +41,14 @@ summary: "This was a collaborative project I did that started late May of 2025. 
 
     I definitely solidified my skills in HTML and CSS more because now I can confidently fix styling problems as well as know what 
     kind of solutions I need.
+
+    Most importantly, I learned to create styling that is inclusive to all screen sizes, not just big screens.
   
 </pre>
 
-[Visit the deployed website](https://github.com/Cooking-Compass)
+[Visit the deployed website](https://art-portal-azure.vercel.app/)
 
-<img width="700px" class="rounded pe-4" src="../img/cookingcompasshomepage.png">
+<img width="700px" class="rounded pe-4" src="../img/artportalhome.png">
 
 <hr>
 
