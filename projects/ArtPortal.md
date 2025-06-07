@@ -46,6 +46,8 @@ summary: "This was a collaborative project I did that started late May of 2025. 
   
 </pre>
 
+[Visit the repository](https://github.com/derriqk/ArtPortal)
+
 [Visit the deployed website](https://art-portal-azure.vercel.app/)
 
 <img width="700px" class="rounded pe-4" src="../img/artportalhome.png">
