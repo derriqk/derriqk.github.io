@@ -4,7 +4,7 @@ type: project
 image: img/bankingapp.png
 title: "Banking Application in C"
 date: 2024
-published: true
+published: false
 labels:
   - C
 summary: "A solo project for ICS 212 which uses pointer access and Linked list implementation to create a sorted list of records. The user can choose operations in a Menu to communicate with the database."
