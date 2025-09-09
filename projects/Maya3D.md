@@ -30,7 +30,7 @@ summary: "This was done for an introduction to 3D Computer Graphics for my ICS 4
 <p>
   First photo is an upclose photo of the rocket I 3D modelled. 
   <br>
-  Second photo is using Blitz to add a smoke trail.
+  Second photo is using Bifrost to add a smoke trail.
 </p>
 
 <img width="700px" class="rounded pe-4" src="../img/rocketMaya.png">
