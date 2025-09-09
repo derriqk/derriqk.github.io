@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/
-title: "sample"
+image: img/Autodesk-maya-software-1.webp
+title: "3D Rocket Animation"
 date: 2025
 published: true
 labels:
@@ -19,5 +19,7 @@ summary: "text"
   text
   
 </pre>
+
+<img width="700px" class="rounded pe-4" src="../img/rocketMaya.png">
 
 <hr>
