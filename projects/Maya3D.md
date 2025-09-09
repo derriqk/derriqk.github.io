@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Autodesk-maya-software-1.webp
-title: "3D Rocket Animation"
+title: "Maya: 3D Rocket Animation"
 date: 2025
 published: true
 labels:
