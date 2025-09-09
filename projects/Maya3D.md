@@ -29,10 +29,14 @@ summary: "This was done for an introduction to 3D Computer Graphics for my ICS 4
 
 <p>
   First photo is an upclose photo of the rocket I 3D modelled.
-  Second photo is the entire scene from flat view (back, front, side) which shows the motion path and other objects I modelled.
 </p>
 
 <img width="700px" class="rounded pe-4" src="../img/rocketMaya.png">
+<br>
+<p>
+  Second photo is the entire scene from flat view (back, front, side) which shows the motion path and other objects I modelled.
+</p>
+
 <img width="700px" class="rounded pe-4" src="../img/MayaRocketPanels.png">
 
 <hr>
