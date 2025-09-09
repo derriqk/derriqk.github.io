@@ -1,0 +1,23 @@
+---
+layout: project
+type: project
+image: img/
+title: "sample"
+date: 2025
+published: true
+labels:
+  - Maya
+  - Animation
+  - 3D Modeling
+summary: "text"
+---
+
+<hr>
+
+<pre>
+  
+  text
+  
+</pre>
+
+<hr>
