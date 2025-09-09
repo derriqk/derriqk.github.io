@@ -9,14 +9,19 @@ labels:
   - Maya
   - Animation
   - 3D Modeling
-summary: "text"
+summary: "This was done for an introduction to 3D Computer Graphics for my ICS 481 class."
 ---
 
 <hr>
 
 <pre>
   
-  text
+  For this project I learned the fundamentals of Maya to be able to create, light, and animate.
+  Specifically, I learned these skills:
+    - Poly Modelling
+    - Material Assignment
+    - Key Frame Animation for Objects
+    - Camera/Perspective Animation
   
 </pre>
 
