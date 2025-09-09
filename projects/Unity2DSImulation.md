@@ -28,6 +28,7 @@ summary: "For this simulation, I simulated a simple ecosystem that has organisms
 </pre>
 [Visit the project repository](https://github.com/derriqk/UnitySimulation)
 <br>
+<br>
 <img width="700px" class="rounded pe-4" src="../img/unity2D.png">
 
 <hr>
