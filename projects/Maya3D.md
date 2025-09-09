@@ -28,13 +28,18 @@ summary: "This was done for an introduction to 3D Computer Graphics for my ICS 4
 </pre>
 
 <p>
-  First photo is an upclose photo of the rocket I 3D modelled.
+  First photo is an upclose photo of the rocket I 3D modelled. 
+  <br>
+  Second photo is using Blitz to add a smoke trail.
 </p>
 
 <img width="700px" class="rounded pe-4" src="../img/rocketMaya.png">
+<img width="700px" class="rounded pe-4" src="../img/mayaSmoke.png">
+
 <br>
+
 <p>
-  Second photo is the entire scene from flat view (back, front, side) which shows the motion path and other objects I modelled.
+  This photo is the entire scene from flat view (back, front, side) which shows the motion path and other objects I modelled.
 </p>
 
 <img width="700px" class="rounded pe-4" src="../img/MayaRocketPanels.png">
