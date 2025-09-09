@@ -34,7 +34,7 @@ summary: "This was done for an introduction to 3D Computer Graphics for my ICS 4
 </p>
 
 <img width="700px" class="rounded pe-4" src="../img/rocketMaya.png">
-<img width="700px" class="rounded pe-4" src="../img/mayaSmoke.png">
+<img width="400px" class="rounded pe-4" src="../img/mayaSmoke.png">
 
 <br>
 
