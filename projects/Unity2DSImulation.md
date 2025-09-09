@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/
+image: img/Unity-Logo.jpg
 title: "Unity: A Simple 2D Simulation"
 date: 2025
 published: true
@@ -19,6 +19,8 @@ summary: "For this simulation, I simulated a simple ecosystem that has organisms
   text
   
 </pre>
+
+<img width="700px" class="rounded pe-4" src="../img/unity2D.png">
 
 <hr>
 
