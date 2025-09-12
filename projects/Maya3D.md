@@ -44,4 +44,11 @@ summary: "This was done for an introduction to 3D Computer Graphics for my ICS 4
 
 <img width="700px" class="rounded pe-4" src="../img/MayaRocketPanels.png">
 
+<video autoplay loop muted playsinline width="300">
+  <source src="../img/rocketAnime.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 <hr>
+
+
