@@ -28,7 +28,8 @@ summary: "This was a project for my ICS 486 class that was made to simulate a VR
 [Visit the project repository](https://github.com/derriqk/VRProj)
 <br>
 <br>
-<img width="700px" class="rounded pe-4" src="../img/">
+<img width="700px" class="rounded pe-4" src="../img/VRProjImage1">
+<img width="300px" class="rounded pe-4" src="../img/VRProjImage2">
 
 <hr>
 
